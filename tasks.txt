@@ -1,0 +1,13 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 2022/10/10, 2022/01/14, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks., 2022/10/24, 2022/10/25, No
+thembi, Create program for website, Create program that stores customers details on web., 2022/07/10, 2022/07/25, No
+sean, Customer feedback, Call customers to find out their experince with new website platform., 2022/03/01, 2022/08/10, Yes
+karen, Book venue, Book venue for lunch for stakeholders annual meeting, 2022/03/05, 2022/07/10, No
+karen, Create presentation, Create presentation for monthly sales., 2022/03/01, 2022/12/12, Yes
+phumlani, Cold calling, Cold call new clients to add to forcasting sheets., 2022/03/12, 2022/03/30, No
+rebecca, Assign roles for Team, Determine the roles for the team building game and record in file., 2022/03/15, 2022/03/30, No
+ryan, Presentation awards, Complete Presentation of the awards available for staff team building function., 2022/03/16, 2022/03/17, Yes
+ryan, Import new graphic module, Import the new graphic module software on all users machines., 2022/03/17, 2022/12/17, Yes
+ryan, Update staff PC's, Update all staff PC's to latest Windows., 2022/03/20, 2023/10/01, No
+jerry, Storeroom Stocktake, Set up and complete stock take in storeroom., 2022/01/03, 2023/03/20, Yes
+kelly, Accounts Report, Use new software to extract data and give feedback to CEO on outstanding accounts., 2022/03/01, 2022/03/20, No
